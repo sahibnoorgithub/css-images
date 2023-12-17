@@ -1,0 +1,73 @@
+
+
+
+/* size of image  */
+
+
+
+/* img{
+
+    width: 200px;
+    height: 200px;
+
+} */
+
+/* aligning of images in css */
+
+/* img{
+    width: 250px;
+    height: 250px;
+
+} */
+/* 
+img{
+    margin-left: 200px;
+} */
+
+/* img{
+    float: right;
+} */
+
+
+/* Centering images  */
+/* img{
+    width: 250px;
+    height: 250px;
+}
+img{
+    display: block;
+    margin: auto;
+} */
+
+
+/* Background images */
+/* 
+body{
+    background-image: url(food-menu1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+} */
+
+
+/* Backgound position */
+/* body{
+    background-image: url(food-menu1.jpg);
+    background-position: left top;
+} */
+
+
+
+/* Background Repeat */
+/* body{
+    background-image: url(food-menu1.jpg);
+    background-repeat: no-repeat;
+
+} */
+
+/* background size */
+body{
+    background-image: url(food-menu1.jpg);
+    background-size: cover;
+}
